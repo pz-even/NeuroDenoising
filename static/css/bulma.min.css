@@ -9910,7 +9910,7 @@ a.has-text-danger-dark:focus, a.has-text-danger-dark:hover {
 }
 
 .has-text-justified {
-    text-align:justify !important
+    text-align:center !important
 }
 
 .has-text-left {
@@ -11449,7 +11449,7 @@ a.has-text-danger-dark:focus, a.has-text-danger-dark:hover {
 }
 
 .section {
-    padding: 3rem 1.5rem;
+    padding: 1.5rem 1.5rem;
     background-color: #f5f5f5;
 }
 
