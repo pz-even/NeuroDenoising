@@ -1,5 +1,6 @@
 body {
-  font-family: 'Noto Sans', sans-serif;
+  font-family: 'Gill Sans', sans-serif;
+  /* font-family: 'adobe-arabic', sans-serif;  */
 }
 
 
@@ -48,11 +49,11 @@ body {
 }
 
 .publication-title {
-    font-family: 'Google Sans', sans-serif;
+    font-family: 'Gill Sans', sans-serif;
 }
 
 .publication-authors {
-    font-family: 'Google Sans', sans-serif;
+    font-family: 'Gill Sans', sans-serif;
 }
 
 .publication-venue {
@@ -131,6 +132,10 @@ body {
 
 .eql-cntrb { 
   font-size: smaller;
+}
+
+.footersize { 
+  font-size: 10pt;
 }
 
 
